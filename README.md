@@ -5,4 +5,4 @@
 - ### Atualmente Trabalhamos Com **JavaScript** Na Plataforma *P5JS*. 💻
 - ## Para Contato Use o Email: _00001088295599sp@al.educacao.sp.gov.br_
 
-![](https://media1.tenor.com/m/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif)
+![](https://media1.tenor.com/m/hi7r-GJWZIcAAAAd/luna-crunchycat.gif)
